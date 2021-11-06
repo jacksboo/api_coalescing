@@ -1,8 +1,11 @@
+
 #Test API
 This example tests the coalescence of many API responses'
+
 ## API list
   - In the config.py file you can update the api url list in order to 
     increase/decrease the amount of apis where you will retrieve the data.
+
 ## Running
   - To run the project run the `src/app.py` file to start the flask application:
     ```python src/app.py```
