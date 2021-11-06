@@ -1,6 +1,6 @@
 
 #Test API
-This example tests the coalescence of many API responses'
+This example tests the coalescence of many API responses
 
 ## API list
   - In the config.py file you can update the api url list in order to 
